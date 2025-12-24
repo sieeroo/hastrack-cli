@@ -12,7 +12,6 @@
 #define STATUS_IN_PROGRESS 2
 #define STATUS_DONE 4
 
-// Enum declarations
 enum menuOptions {
     eToDoList = 1,
     eViewActivity,
@@ -25,5 +24,6 @@ enum activityMenuOptions {
     eChangeStatus,
     eBack
 };
+
 
 #endif
